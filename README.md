@@ -1,3 +1,6 @@
+# View in Git Hub Pages
+click in the next link for view project: https://gabrieljf217.github.io/portafolio-angular/
+
 # Portafolio
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3.
